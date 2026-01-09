@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-one local line in branch
-=======
-one local line added
->>>>>>> main
